@@ -15,7 +15,7 @@ const Navbar = () => {
     return (
         <div>
             <div className='flex justify-between pt-7 pl-8 pr-8 pb-7'>
-                <a href='/'> 
+                <a href='https://decentrala.netlify.app/'> 
                     <Image src={Logo} alt="logo" width={150} height={80} />
                 </a>
 
