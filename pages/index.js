@@ -28,7 +28,7 @@ export default function Home() {
                     <Tab>Science & Math Textbooks</Tab>
                     <Tab className="px-5">Lvl. 1 & 2 Books</Tab>
                     <Tab>Chapter Books</Tab>
-                    <Tab>Comics</Tab>
+                    <Tab>Comic Books</Tab>
                 </Tab.List>
                 <Tab.Panels>
                     <Tab.Panel>
