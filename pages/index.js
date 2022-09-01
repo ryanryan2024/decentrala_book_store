@@ -23,8 +23,8 @@ export default function Home() {
             <div className='p-10 font-extralight flex justify-center'>
                 Diversed books, diversed audience.
             </div>
-            <div className='font-extralight flex justify-center text-sm'>
-                Note: Want to exchange with a different currency? <a className="underline" href="https://decentrala.netlify.app/contact.html">contact us.</a>
+            <div className='font-extralight flex justify-center text-sm pb-5'>
+                Note: Want to exchange with a different currency? <a className="underline" href="https://decentrala.netlify.app/contact.html"> contact us.</a>
             </div>
             <Tab.Group>
                 <Tab.List className="flex justify-between px-5 bg-white text-black p-3 rounded-3xl text-sm">
